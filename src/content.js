@@ -1,5 +1,5 @@
 // Edit all marketing copy here.
-export const COMPANY = { name: "Nettech", email: "hello@nettech.example" };
+export const COMPANY = { name: "Nettech", email: "nettech.management@gmail.com" };
 
 export const STAGES = ["Discovery", "Design", "Build", "Review", "Launch"];
 
