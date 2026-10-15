@@ -10,7 +10,7 @@
   --warm: #e8a317;
   --bad: #b3261e;
   --good: #1b7a43;
-  --head: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --head: "Times New Roman", "Times", "serif", "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
   --body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 @media (prefers-color-scheme: dark) {
