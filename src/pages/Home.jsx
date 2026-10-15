@@ -45,8 +45,7 @@ export default function Home() {
           <div>
             <h1>Your website should bring in customers while you sleep.</h1>
             <p className="lead">
-              Nettech designs and builds fast, modern, search-ready websites and web apps. Every client gets a private
-              portal to watch the build happen, chat with us and sign off each stage.
+              Nettech designs and builds fast, modern, search-ready websites and web apps. Let us join you on your journey to success.
             </p>
             <div className="cta">
               <a className="btn" href="#contact">Start your project</a>
